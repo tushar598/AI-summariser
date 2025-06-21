@@ -1,5 +1,5 @@
 // Configuration
-const GEMINI_API_KEY = "AIzaSyDNMq_uIatd5iE5uHcmfya1rHaAuLanpZA"; // Replace with your actual API key
+const GEMINI_API_KEY = "AIzaSyBNPg4byjeUh10aXF2B9myylRFVed64tCM"; // Replace with your actual API key
 const GEMINI_API_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 const MAX_HISTORY_ITEMS = 10;
