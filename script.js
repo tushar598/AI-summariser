@@ -84,7 +84,6 @@ elements.pasteBtn.addEventListener("click", pasteText);
 elements.enhanceBtn.addEventListener("click", enhanceText);
 elements.uploadBtn.addEventListener("click", () => elements.fileInput.click());
 elements.voiceBtn.addEventListener("click", toggleVoiceInput);
-elements.urlBtn.addEventListener("click", showUrlModal);
 elements.fileInput.addEventListener("change", handleFileUpload);
 elements.summarizeBtn.addEventListener("click", analyzeText);
 elements.compareBtn.addEventListener("click", compareSummaries);
